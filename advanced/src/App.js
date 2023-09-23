@@ -1,5 +1,5 @@
 import {Component} from 'react'
-import Persons from './Ex3/Ex3_6'
+import ParentComp from './Ex4/ex4_3_parent';
 
 
 class App extends Component {
@@ -8,9 +8,8 @@ class App extends Component {
     }
 
     render() {
-        return (<div>
-            <Persons/>
-
+        return (<div className="App">
+            <ParentComp />
         </div>)
     }
 }

@@ -7,7 +7,7 @@ class Task extends Component {
         return (
             <div>
                 <p>Title: {title}</p>
-                <p>Completed: {completed ? "True" : "False"}</p>
+                <p>Completed: {completed.toString()}</p>
             </div>
         );
     }
