@@ -1,17 +1,15 @@
 import {Component} from 'react'
-import ParentComp from './Ex4/ex4_3_parent';
+// import React from 'react';
+import Ex5_2_parent from './Ex5/Ex5_2_parent';
 
 
-class App extends Component {
-    constructor() {
-        super()
-    }
 
-    render() {
-        return (<div className="App">
-            <ParentComp />
-        </div>)
-    }
+function App() {
+    return (
+        <div className="App" style={{backgroundColor:'yellow'}}>
+            <Ex5_2_parent />
+        </div>
+    );
 }
 
 
