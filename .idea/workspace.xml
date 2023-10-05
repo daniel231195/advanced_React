@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ffa88cc-c446-40db-bcad-5a6e32270b9e" name="Changes" comment="123" />
+    <list default="true" id="6ffa88cc-c446-40db-bcad-5a6e32270b9e" name="Changes" comment="123">
+      <change afterPath="$PROJECT_DIR$/advanced/src/Ex5/Person.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/src/Ex5/Persons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/src/Ex5/Task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/advanced/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +60,8 @@
       <updated>1693661696035</updated>
       <workItem from="1693661697185" duration="7486000" />
       <workItem from="1694271550310" duration="8419000" />
-      <workItem from="1695474848487" duration="5431000" />
+      <workItem from="1695474848487" duration="6315000" />
+      <workItem from="1696530421475" duration="3211000" />
     </task>
     <task id="LOCAL‎00001" summary="123">
       <created>1694266054907</created>
